@@ -5,7 +5,7 @@
 
 ## About me
 
-I am a software engineer student who prefers front-end programming. I continuously try to expand my knowledge with both, school and personal projects. This is my repository where you can take a look on those projects. I would appreciate any feedbacks, constructive criticism, or other comments. (Dont worry, they won't hurt me 😄)
+I am a software engineer student who likes front-end programming. I continuously try to expand my knowledge with both, school and personal projects. This is my repository where you can take a look on those projects. I would appreciate any feedbacks, constructive criticism, or other comments. (Don't worry, they won't hurt me 😄)
 
 ## My skills
 
