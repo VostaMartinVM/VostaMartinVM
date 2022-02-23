@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Martin Vosta I am a software engineer student who prefers front-end programming. I continuously try to expand my knowledge with both, school and personal projects. This is my repository where you can take a look on those projects. I would appreciate any feedbacks, constructive criticism, or other comments. (Dont worry, they won't hurt me :D)
+My name is Martin Vosta and I am a software engineer student who prefers front-end programming. I continuously try to expand my knowledge with both, school and personal projects. This is my repository where you can take a look on those projects. I would appreciate any feedbacks, constructive criticism, or other comments. (Dont worry, they won't hurt me :D)
 
 <!--
 **VostaMartinVM/VostaMartinVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
