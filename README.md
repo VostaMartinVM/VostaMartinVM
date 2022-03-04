@@ -16,5 +16,5 @@ I am a software engineer student who likes front-end programming. I continuously
 <p align="left">
 <a href="https://linkedin.com/in/martin-vošta-454605232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/martin-vošta-454605232/" height="30" width="40" /></a>
 </p>
-
+<a href="mailto:vostamartinvm@gmail.com" target="blank"><img align="center" src="https://freepikpsd.com/file/2019/10/logo-mail-blanc-png-Transparent-Images-Free.png" alt="vostamartinvm@gmail.com" height="30" width="40" /></a>
 
