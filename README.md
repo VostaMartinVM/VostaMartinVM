@@ -1,7 +1,7 @@
 # Hello there, I'm Martin Vosta 👋
 
 <img align="left" width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=VostaMartinVM&show_icons=true&theme=radical" />
-<img align="left" width="46%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VostaMartinVM&layout=compact" />
+<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VostaMartinVM&layout=compact" />
 
 ## About me
 
